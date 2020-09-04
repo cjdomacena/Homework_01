@@ -1,5 +1,5 @@
-#WEBSTORM AFS GIT Setup
+# WEBSTORM AFS GIT Setup
 
-##NJIT Website
+## NJIT Website
 
-###https://web.njit.edu/~cd395/hw_01
+### https://web.njit.edu/~cd395/hw_01
